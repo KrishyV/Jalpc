@@ -2,8 +2,8 @@
 
 # Website settings
 title: Krishan's Resume
-description: Krishan's resume,use Jekyll and github pages.
-keywords: Krishan,resumec,Jekyll,github,gh-pages
+description: Krishan's resume, hosted on github pages!.
+keywords: Krishan,resume,Jekyll,github,gh-pages
 baseurl: /resume # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://KrishyV.github.io/resume # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
