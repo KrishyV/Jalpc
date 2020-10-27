@@ -1,30 +1,44 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Mplify.life (eDealer Private Limited)
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I am currently building a mobile application based on Flutter to manage retail inventory top-ups which is integrated with the in-house purchasing and inventory management solution I have previously built. I am also overseeing the transition from on-site servers to AWS.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: September 2020
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Flexi-time Software Developer
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: StaffAny Private Limited
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I have worked in an agile team and built new features for web and mobile using React and React Native. I was made well-versed in test driven development, QA processes, code reviews and other good software engineering practices. I have also been delegated the role of feature lead for several sprints.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jan. 2020 - July 2020
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Software Engineering Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: eDealer Private Limited
+    i18n: company_b
+  desc:
+    detail: I was the core developer for an in-house purchasing and inventory management solution which I wrote with the Flask framework. As an in-house developer, I worked closely with the end-user to obtain their feedback and developed a powerful solution through a rapid and iterative process. The solution has saved the team 10 man-hours a week.  
+    i18n: company_b_desc
+  date:
+    detail: Nov. 2017 - Dec. 2019
+    i18n: company_b_date
+  job:
+    detail: Flexi-time Software Developer
     i18n: company_b_job
   icon: fa-plus-square
